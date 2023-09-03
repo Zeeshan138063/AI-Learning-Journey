@@ -2,7 +2,7 @@
 
 Welcome to my AI Learning repository! 🚀
 
- With couple of years of Python web development expertise under my belt, I've embarked on a thrilling adventure into Artificial Intelligence (AI). This repository acts as my digital journal and code playground, documenting my journey, insights, and AI-related projects.
+ With a couple of years of Python web development expertise under my belt, I've embarked on a thrilling adventure into Artificial Intelligence (AI). This repository acts as my digital journal and code playground, documenting my journey, insights, and AI-related projects.
  
 ## What to Expect
 
