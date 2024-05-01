@@ -26,3 +26,23 @@ This is a more advanced type of AI that researchers are still working on. It wou
 This represents the future of AI, where machines will have their own consciousness, sentience, and self-awareness. This type of AI is still theoretical and would be capable of understanding and possessing emotions, which could lead them to form beliefs and desires.
 
 [Reference](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/types-of-artificial-intelligence#types_of_artificial_intelligence)
+
+# Assignment # 2
+
+## Data Scientist
+
+- Focuses on data collection, data model development, and model training.
+- An expert specializing in data acquisition, modeling, and model training.
+
+## Data Analytics
+
+- A specialization of Data Science.
+- Makes decisions based on data collected in the Data Science step.
+- Forecasts based on data.
+- Provides specific answers tailored to the dataset.
+- A subset within Data Science.
+- Utilizes data obtained during the Data Science process for decision-making.
+- Employs data to forecast future outcomes.
+- Provides granular insights tailored to specific datasets.
+
+[Reference](https://www.youtube.com/watch?v=dcXqhMqhZUo)
